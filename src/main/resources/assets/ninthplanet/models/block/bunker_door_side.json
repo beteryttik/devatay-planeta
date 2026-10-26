@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/bunker_door_side",
+    "north": "ninthplanet:block/bunker_door_side",
+    "south": "ninthplanet:block/bunker_door_side",
+    "east": "ninthplanet:block/bunker_door_side",
+    "west": "ninthplanet:block/bunker_door_side",
+    "up": "ninthplanet:block/bunker_door_top",
+    "down": "ninthplanet:block/bunker_door_top"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:kill_chimaera",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.craft_panacea"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.craft_panacea.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

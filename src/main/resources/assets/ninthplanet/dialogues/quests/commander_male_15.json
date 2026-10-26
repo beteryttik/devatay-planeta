@@ -1,0 +1,8 @@
+{
+  "id": "commander_male_quest_15",
+  "giver": "commander_male",
+  "phrase": "refuse",
+  "objective": "kill_chimaeras",
+  "amount": 4,
+  "reward": "raw_panacea"
+}

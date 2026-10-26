@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ninthplanet:taint_dust"
+    },
+    {
+      "item": "ninthplanet:pure_tincture"
+    }
+  ],
+  "result": {
+    "id": "ninthplanet:bunker_door",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "commander_male_quest_19",
+  "giver": "commander_male",
+  "phrase": "quest_02",
+  "objective": "collect_panacea",
+  "amount": 7,
+  "reward": "raw_panacea"
+}

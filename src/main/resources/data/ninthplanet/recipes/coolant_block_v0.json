@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ninthplanet:memory_shard"
+    }
+  },
+  "result": {
+    "id": "ninthplanet:coolant_block",
+    "count": 2
+  }
+}

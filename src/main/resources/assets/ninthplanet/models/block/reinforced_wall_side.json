@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/reinforced_wall_side",
+    "north": "ninthplanet:block/reinforced_wall_side",
+    "south": "ninthplanet:block/reinforced_wall_side",
+    "east": "ninthplanet:block/reinforced_wall_side",
+    "west": "ninthplanet:block/reinforced_wall_side",
+    "up": "ninthplanet:block/reinforced_wall_top",
+    "down": "ninthplanet:block/reinforced_wall_top"
+  }
+}

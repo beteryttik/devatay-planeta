@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ninthplanet:core_ember"
+    }
+  },
+  "result": {
+    "id": "ninthplanet:raw_panacea",
+    "count": 1
+  }
+}

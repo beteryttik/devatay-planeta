@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_13",
+  "giver": "scientist_female",
+  "phrase": "idle_01",
+  "objective": "clear_taint",
+  "amount": 1,
+  "reward": "coolant_cell"
+}

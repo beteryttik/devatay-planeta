@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/taint_soil_side",
+    "north": "ninthplanet:block/taint_soil_side",
+    "south": "ninthplanet:block/taint_soil_side",
+    "east": "ninthplanet:block/taint_soil_side",
+    "west": "ninthplanet:block/taint_soil_side",
+    "up": "ninthplanet:block/taint_soil_top",
+    "down": "ninthplanet:block/taint_soil_top"
+  }
+}

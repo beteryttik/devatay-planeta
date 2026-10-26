@@ -1,0 +1,6 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "all": "ninthplanet:block/reinforced_wall"
+  }
+}

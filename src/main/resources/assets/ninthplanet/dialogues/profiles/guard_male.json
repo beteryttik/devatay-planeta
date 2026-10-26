@@ -1,0 +1,87 @@
+{
+  "id": "guard_male",
+  "gender": "male",
+  "voice_pack": "ninthplanet:npc/guard_male",
+  "phrases": [
+    {
+      "id": "greeting",
+      "text_ru": "<greeting> TODO: реплика для guard_male"
+    },
+    {
+      "id": "alert",
+      "text_ru": "<alert> TODO: реплика для guard_male"
+    },
+    {
+      "id": "panic",
+      "text_ru": "<panic> TODO: реплика для guard_male"
+    },
+    {
+      "id": "give_panacea",
+      "text_ru": "<give_panacea> TODO: реплика для guard_male"
+    },
+    {
+      "id": "defend",
+      "text_ru": "<defend> TODO: реплика для guard_male"
+    },
+    {
+      "id": "wave_over",
+      "text_ru": "<wave_over> TODO: реплика для guard_male"
+    },
+    {
+      "id": "idle_01",
+      "text_ru": "<idle_01> TODO: реплика для guard_male"
+    },
+    {
+      "id": "idle_02",
+      "text_ru": "<idle_02> TODO: реплика для guard_male"
+    },
+    {
+      "id": "idle_03",
+      "text_ru": "<idle_03> TODO: реплика для guard_male"
+    },
+    {
+      "id": "quest_01",
+      "text_ru": "<quest_01> TODO: реплика для guard_male"
+    },
+    {
+      "id": "quest_02",
+      "text_ru": "<quest_02> TODO: реплика для guard_male"
+    },
+    {
+      "id": "portal_ready",
+      "text_ru": "<portal_ready> TODO: реплика для guard_male"
+    },
+    {
+      "id": "obey",
+      "text_ru": "<obey> TODO: реплика для guard_male"
+    },
+    {
+      "id": "refuse",
+      "text_ru": "<refuse> TODO: реплика для guard_male"
+    },
+    {
+      "id": "thanks",
+      "text_ru": "<thanks> TODO: реплика для guard_male"
+    },
+    {
+      "id": "low_hp",
+      "text_ru": "<low_hp> TODO: реплика для guard_male"
+    },
+    {
+      "id": "healed",
+      "text_ru": "<healed> TODO: реплика для guard_male"
+    },
+    {
+      "id": "patrol",
+      "text_ru": "<patrol> TODO: реплика для guard_male"
+    },
+    {
+      "id": "night",
+      "text_ru": "<night> TODO: реплика для guard_male"
+    },
+    {
+      "id": "storm",
+      "text_ru": "<storm> TODO: реплика для guard_male"
+    }
+  ]
+}

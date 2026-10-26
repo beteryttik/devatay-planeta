@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ninthplanet:block/signal_lamp_cracked_2"
+  }
+}

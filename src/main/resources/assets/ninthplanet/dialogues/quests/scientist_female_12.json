@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_12",
+  "giver": "scientist_female",
+  "phrase": "storm",
+  "objective": "repair_wall",
+  "amount": 3,
+  "reward": "coolant_cell"
+}

@@ -1,0 +1,7 @@
+{
+  "profile": "commander_male",
+  "weapon": "rocket_launcher",
+  "armor": "light",
+  "combat_role": "defender",
+  "shoot_cooldown_ticks": 60
+}

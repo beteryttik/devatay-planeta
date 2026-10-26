@@ -1,0 +1,5 @@
+{
+  "biome": "taint_zone",
+  "taint_particle_density": 0.96,
+  "particle_render_radius": 32
+}

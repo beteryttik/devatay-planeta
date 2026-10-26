@@ -1,0 +1,7 @@
+{
+  "profile": "guard_male",
+  "weapon": "shotgun",
+  "armor": "heavy",
+  "combat_role": "defender",
+  "shoot_cooldown_ticks": 40
+}

@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_1",
+  "giver": "medic_female",
+  "phrase": "portal_ready",
+  "objective": "clear_taint",
+  "amount": 6,
+  "reward": "memory_crystal"
+}

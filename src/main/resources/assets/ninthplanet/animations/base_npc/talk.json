@@ -1,0 +1,18 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.base_npc.talk": {
+      "loop": false,
+      "animation_length": 2.0,
+      "bones": {
+        "root": {
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+}

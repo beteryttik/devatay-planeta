@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_5",
+  "giver": "scientist_female",
+  "phrase": "patrol",
+  "objective": "kill_chimaeras",
+  "amount": 5,
+  "reward": "memory_crystal"
+}

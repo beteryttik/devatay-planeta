@@ -1,0 +1,22 @@
+{
+  "item.ninthplanet.raw_panacea": "Сырая панацея",
+  "item.ninthplanet.quick_panacea": "Быстрая панацея",
+  "item.ninthplanet.neutralizing_powder": "Нейтрализующий порошок",
+  "item.ninthplanet.memory_crystal": "Кристалл памяти",
+  "item.ninthplanet.plasma_gun": "Плазменная пушка",
+  "item.ninthplanet.chimaera_shard": "Осколок химеры",
+  "block.ninthplanet.obelisk": "Обелиск стабильности",
+  "block.ninthplanet.reinforced_wall": "Бронированная стена",
+  "block.ninthplanet.bunker_door": "Дверь бункера",
+  "block.ninthplanet.alarm": "Блок тревоги",
+  "effect.ninthplanet.instability": "Нестабильность",
+  "entity.ninthplanet.chimaera": "Химера",
+  "entity.ninthplanet.alpha_chimaera": "Альфа-химера",
+  "entity.ninthplanet.base_npc": "Выживший базы",
+  "ninthplanet.portal.warning": "Обелиск гудит. Портал скоро откроется...",
+  "ninthplanet.portal.open": "ОТКРЫТО ОКНО СТАБИЛЬНОСТИ! Химеры стягиваются к порталу!",
+  "ninthplanet.portal.closed": "Окно закрылось.",
+  "ninthplanet.wave.warning": "ТРЕВОГА! Химеры идут на базу!",
+  "ninthplanet.memory.start": "Воспоминания возвращаются...",
+  "ninthplanet.memory.corrupted": "Воспоминание искажено..."
+}

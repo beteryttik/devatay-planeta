@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_6",
+  "giver": "scientist_female",
+  "phrase": "wave_over",
+  "objective": "kill_chimaeras",
+  "amount": 2,
+  "reward": "coolant_cell"
+}

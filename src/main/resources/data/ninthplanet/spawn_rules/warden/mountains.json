@@ -1,0 +1,8 @@
+{
+  "entity": "ninthplanet:warden",
+  "biome": "mountains",
+  "weight": 7,
+  "min_group": 1,
+  "max_group": 4,
+  "requires_taint_level": 2
+}

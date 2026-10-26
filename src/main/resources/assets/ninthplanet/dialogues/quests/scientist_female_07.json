@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_7",
+  "giver": "scientist_female",
+  "phrase": "quest_02",
+  "objective": "collect_panacea",
+  "amount": 8,
+  "reward": "raw_panacea"
+}

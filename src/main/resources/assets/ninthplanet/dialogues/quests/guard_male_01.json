@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_1",
+  "giver": "guard_male",
+  "phrase": "low_hp",
+  "objective": "kill_chimaeras",
+  "amount": 6,
+  "reward": "raw_panacea"
+}

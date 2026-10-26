@@ -1,0 +1,8 @@
+{
+  "entity": "ninthplanet:chimaera_heli",
+  "biome": "ninthplanet:taint_zone",
+  "weight": 6,
+  "min_group": 1,
+  "max_group": 4,
+  "requires_taint_level": 2
+}

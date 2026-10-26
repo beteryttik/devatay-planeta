@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_11",
+  "giver": "engineer_male",
+  "phrase": "idle_02",
+  "objective": "repair_wall",
+  "amount": 8,
+  "reward": "coolant_cell"
+}

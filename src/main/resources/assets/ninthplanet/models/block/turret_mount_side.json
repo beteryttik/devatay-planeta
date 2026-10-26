@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/turret_mount_side",
+    "north": "ninthplanet:block/turret_mount_side",
+    "south": "ninthplanet:block/turret_mount_side",
+    "east": "ninthplanet:block/turret_mount_side",
+    "west": "ninthplanet:block/turret_mount_side",
+    "up": "ninthplanet:block/turret_mount_top",
+    "down": "ninthplanet:block/turret_mount_top"
+  }
+}

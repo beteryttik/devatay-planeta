@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_3",
+  "giver": "engineer_male",
+  "phrase": "alert",
+  "objective": "clear_taint",
+  "amount": 10,
+  "reward": "raw_panacea"
+}

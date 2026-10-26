@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ninthplanet:circuit_board"
+    }
+  },
+  "result": {
+    "id": "ninthplanet:reinforced_wall",
+    "count": 8
+  }
+}

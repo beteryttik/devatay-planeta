@@ -1,0 +1,9 @@
+{
+  "event": "silent_night",
+  "difficulty": "normal",
+  "duration_minutes": 4,
+  "effects": [
+    "extra_spawns",
+    "panacea_bane"
+  ]
+}

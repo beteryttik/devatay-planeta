@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:full_defense",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.panacea_addict"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.panacea_addict.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

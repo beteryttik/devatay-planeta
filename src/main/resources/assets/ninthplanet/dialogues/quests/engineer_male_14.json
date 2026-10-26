@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_14",
+  "giver": "engineer_male",
+  "phrase": "refuse",
+  "objective": "kill_chimaeras",
+  "amount": 2,
+  "reward": "steel_plate"
+}

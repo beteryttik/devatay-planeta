@@ -1,0 +1,9 @@
+{
+  "event": "taint_storm",
+  "difficulty": "easy",
+  "duration_minutes": 7,
+  "effects": [
+    "guard_buff",
+    "hud_glitch"
+  ]
+}

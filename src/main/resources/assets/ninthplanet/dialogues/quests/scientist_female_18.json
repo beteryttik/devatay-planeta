@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_18",
+  "giver": "scientist_female",
+  "phrase": "night",
+  "objective": "kill_chimaeras",
+  "amount": 3,
+  "reward": "steel_plate"
+}

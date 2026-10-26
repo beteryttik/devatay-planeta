@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_5",
+  "giver": "guard_male",
+  "phrase": "healed",
+  "objective": "repair_wall",
+  "amount": 7,
+  "reward": "memory_crystal"
+}

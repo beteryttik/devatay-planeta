@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_19",
+  "giver": "medic_female",
+  "phrase": "thanks",
+  "objective": "kill_chimaeras",
+  "amount": 10,
+  "reward": "steel_plate"
+}

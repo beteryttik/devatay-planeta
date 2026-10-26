@@ -1,0 +1,9 @@
+{
+  "event": "sky_alignment",
+  "difficulty": "hard",
+  "duration_minutes": 4,
+  "effects": [
+    "extra_spawns",
+    "panacea_bane"
+  ]
+}

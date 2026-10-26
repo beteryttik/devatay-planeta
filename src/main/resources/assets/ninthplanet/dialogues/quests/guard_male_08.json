@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_8",
+  "giver": "guard_male",
+  "phrase": "storm",
+  "objective": "reach_obelisk",
+  "amount": 4,
+  "reward": "steel_plate"
+}

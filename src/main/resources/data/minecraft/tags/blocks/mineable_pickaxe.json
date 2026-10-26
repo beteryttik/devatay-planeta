@@ -1,0 +1,21 @@
+{
+  "values": [
+    "ninthplanet:obelisk",
+    "ninthplanet:reinforced_wall",
+    "ninthplanet:bunker_door",
+    "ninthplanet:alarm",
+    "ninthplanet:taint_soil",
+    "ninthplanet:corrupted_grass",
+    "ninthplanet:memory_shrine",
+    "ninthplanet:panacea_extractor",
+    "ninthplanet:reinforced_gate",
+    "ninthplanet:turret_mount",
+    "ninthplanet:supply_crate",
+    "ninthplanet:signal_lamp",
+    "ninthplanet:bunker_wall",
+    "ninthplanet:portal_frame",
+    "ninthplanet:tainted_planks",
+    "ninthplanet:chimaera_flesh",
+    "ninthplanet:coolant_block"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:guard_breaker",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.wave_master"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.wave_master.desc"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ninthplanet:steel_plate"
+    },
+    {
+      "item": "ninthplanet:coolant_cell"
+    }
+  ],
+  "result": {
+    "id": "ninthplanet:quick_panacea",
+    "count": 1
+  }
+}

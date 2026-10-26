@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:open_portal",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.escape_planet"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.escape_planet.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

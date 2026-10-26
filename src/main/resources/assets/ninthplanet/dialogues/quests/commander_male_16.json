@@ -1,0 +1,8 @@
+{
+  "id": "commander_male_quest_16",
+  "giver": "commander_male",
+  "phrase": "thanks",
+  "objective": "reach_obelisk",
+  "amount": 8,
+  "reward": "raw_panacea"
+}

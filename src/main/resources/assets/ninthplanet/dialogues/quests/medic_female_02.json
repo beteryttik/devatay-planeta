@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_2",
+  "giver": "medic_female",
+  "phrase": "wave_over",
+  "objective": "reach_obelisk",
+  "amount": 6,
+  "reward": "memory_crystal"
+}

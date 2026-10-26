@@ -1,0 +1,9 @@
+{
+  "event": "portal_resonance",
+  "difficulty": "hard",
+  "duration_minutes": 9,
+  "effects": [
+    "extra_spawns",
+    "guard_buff"
+  ]
+}

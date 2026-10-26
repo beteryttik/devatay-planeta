@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_15",
+  "giver": "scientist_female",
+  "phrase": "low_hp",
+  "objective": "clear_taint",
+  "amount": 8,
+  "reward": "raw_panacea"
+}

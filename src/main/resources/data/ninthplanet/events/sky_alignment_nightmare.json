@@ -1,0 +1,9 @@
+{
+  "event": "sky_alignment",
+  "difficulty": "nightmare",
+  "duration_minutes": 6,
+  "effects": [
+    "extra_spawns",
+    "guard_buff"
+  ]
+}

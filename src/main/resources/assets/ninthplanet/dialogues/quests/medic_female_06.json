@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_6",
+  "giver": "medic_female",
+  "phrase": "quest_01",
+  "objective": "kill_chimaeras",
+  "amount": 10,
+  "reward": "raw_panacea"
+}

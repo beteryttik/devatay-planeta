@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ninthplanet:block/memory_shrine_cracked_3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "event": "chimaera_migration",
+  "difficulty": "easy",
+  "duration_minutes": 7,
+  "effects": [
+    "taint_growth",
+    "guard_buff"
+  ]
+}

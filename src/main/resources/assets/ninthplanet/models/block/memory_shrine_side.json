@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/memory_shrine_side",
+    "north": "ninthplanet:block/memory_shrine_side",
+    "south": "ninthplanet:block/memory_shrine_side",
+    "east": "ninthplanet:block/memory_shrine_side",
+    "west": "ninthplanet:block/memory_shrine_side",
+    "up": "ninthplanet:block/memory_shrine_top",
+    "down": "ninthplanet:block/memory_shrine_top"
+  }
+}

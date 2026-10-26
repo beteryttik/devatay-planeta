@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ninthplanet:fiber_cable"
+    },
+    {
+      "item": "ninthplanet:memory_shard"
+    }
+  ],
+  "result": {
+    "id": "ninthplanet:memory_shrine",
+    "count": 1
+  }
+}

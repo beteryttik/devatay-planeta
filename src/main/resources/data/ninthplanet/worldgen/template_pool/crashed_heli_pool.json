@@ -1,0 +1,11 @@
+{
+  "fallback": "ninthplanet:crashed_heli_end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

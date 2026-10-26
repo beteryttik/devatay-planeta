@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_6",
+  "giver": "guard_male",
+  "phrase": "thanks",
+  "objective": "repair_wall",
+  "amount": 10,
+  "reward": "raw_panacea"
+}

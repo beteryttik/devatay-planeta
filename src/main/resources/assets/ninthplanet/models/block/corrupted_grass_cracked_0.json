@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ninthplanet:block/corrupted_grass_cracked_0"
+  }
+}

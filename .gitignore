@@ -1,0 +1,9 @@
+build/
+.gradle/
+run/
+logs/
+*.iml
+.idea/
+out/
+assets/ninthplanet/sounds/**/*.ogg
+assets/ninthplanet/sounds/**/*.wav

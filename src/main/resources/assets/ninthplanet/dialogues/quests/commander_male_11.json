@@ -1,0 +1,8 @@
+{
+  "id": "commander_male_quest_11",
+  "giver": "commander_male",
+  "phrase": "alert",
+  "objective": "reach_obelisk",
+  "amount": 9,
+  "reward": "memory_crystal"
+}

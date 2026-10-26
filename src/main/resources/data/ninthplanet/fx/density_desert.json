@@ -1,0 +1,5 @@
+{
+  "biome": "desert",
+  "taint_particle_density": 0.5,
+  "particle_render_radius": 32
+}

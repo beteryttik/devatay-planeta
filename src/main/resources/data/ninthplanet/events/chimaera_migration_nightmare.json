@@ -1,0 +1,9 @@
+{
+  "event": "chimaera_migration",
+  "difficulty": "nightmare",
+  "duration_minutes": 9,
+  "effects": [
+    "taint_growth",
+    "extra_spawns"
+  ]
+}

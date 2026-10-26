@@ -1,0 +1,22 @@
+{
+  "item.ninthplanet.raw_panacea": "Raw Panacea",
+  "item.ninthplanet.quick_panacea": "Quick Panacea",
+  "item.ninthplanet.neutralizing_powder": "Neutralizing Powder",
+  "item.ninthplanet.memory_crystal": "Memory Crystal",
+  "item.ninthplanet.plasma_gun": "Plasma Gun",
+  "item.ninthplanet.chimaera_shard": "Chimaera Shard",
+  "block.ninthplanet.obelisk": "Stability Obelisk",
+  "block.ninthplanet.reinforced_wall": "Reinforced Wall",
+  "block.ninthplanet.bunker_door": "Bunker Door",
+  "block.ninthplanet.alarm": "Alarm Beacon",
+  "effect.ninthplanet.instability": "Instability",
+  "entity.ninthplanet.chimaera": "Chimaera",
+  "entity.ninthplanet.alpha_chimaera": "Alpha Chimaera",
+  "entity.ninthplanet.base_npc": "Base Survivor",
+  "ninthplanet.portal.warning": "The obelisk hums. The portal is near...",
+  "ninthplanet.portal.open": "STABILITY WINDOW OPEN! Guards incoming!",
+  "ninthplanet.portal.closed": "The window has closed.",
+  "ninthplanet.wave.warning": "ALERT! Chimaeras are attacking the base!",
+  "ninthplanet.memory.start": "Memories resurface...",
+  "ninthplanet.memory.corrupted": "The memory is corrupted..."
+}

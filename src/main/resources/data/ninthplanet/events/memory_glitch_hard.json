@@ -1,0 +1,9 @@
+{
+  "event": "memory_glitch",
+  "difficulty": "hard",
+  "duration_minutes": 6,
+  "effects": [
+    "taint_growth",
+    "panacea_bane"
+  ]
+}

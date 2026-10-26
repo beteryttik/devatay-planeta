@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_19",
+  "giver": "engineer_male",
+  "phrase": "storm",
+  "objective": "repair_wall",
+  "amount": 6,
+  "reward": "memory_crystal"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ninthplanet:chimaera_hide"
+    },
+    {
+      "item": "ninthplanet:circuit_board"
+    }
+  ],
+  "result": {
+    "id": "ninthplanet:ak47",
+    "count": 1
+  }
+}

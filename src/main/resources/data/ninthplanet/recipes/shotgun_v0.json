@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ninthplanet:coolant_cell"
+    }
+  },
+  "result": {
+    "id": "ninthplanet:shotgun",
+    "count": 1
+  }
+}

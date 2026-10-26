@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ninthplanet:steel_plate"
+  },
+  "result": {
+    "id": "ninthplanet:shotgun"
+  }
+}

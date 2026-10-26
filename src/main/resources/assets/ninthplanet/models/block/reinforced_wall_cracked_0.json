@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ninthplanet:block/reinforced_wall_cracked_0"
+  }
+}

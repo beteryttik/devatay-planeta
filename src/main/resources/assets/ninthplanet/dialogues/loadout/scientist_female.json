@@ -1,0 +1,7 @@
+{
+  "profile": "scientist_female",
+  "weapon": "railgun",
+  "armor": "heavy",
+  "combat_role": "support",
+  "shoot_cooldown_ticks": 60
+}

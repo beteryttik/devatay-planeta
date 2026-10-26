@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:panacea_addict",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.guard_breaker"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.guard_breaker.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

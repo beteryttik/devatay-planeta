@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:two_moons",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.full_defense"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.full_defense.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

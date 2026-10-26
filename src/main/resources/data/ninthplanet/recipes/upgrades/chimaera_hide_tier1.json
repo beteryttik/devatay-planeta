@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ninthplanet:circuit_board"
+  },
+  "result": {
+    "id": "ninthplanet:chimaera_hide"
+  }
+}

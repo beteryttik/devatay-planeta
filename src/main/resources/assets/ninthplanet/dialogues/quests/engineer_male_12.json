@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_12",
+  "giver": "engineer_male",
+  "phrase": "alert",
+  "objective": "collect_panacea",
+  "amount": 8,
+  "reward": "coolant_cell"
+}

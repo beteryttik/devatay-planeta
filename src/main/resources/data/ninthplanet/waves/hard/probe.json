@@ -1,0 +1,11 @@
+{
+  "difficulty": "hard",
+  "type": "probe",
+  "count": 7,
+  "spawn_delay_seconds": 25,
+  "break_block_speed": 1.0,
+  "includes_alpha": false,
+  "targets": [
+    "doors"
+  ]
+}

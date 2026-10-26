@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:first_taint",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.kill_chimaera"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.kill_chimaera.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

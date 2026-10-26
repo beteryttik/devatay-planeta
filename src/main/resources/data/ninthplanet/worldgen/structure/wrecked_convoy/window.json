@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "ninthplanet:wrecked_convoy_window",
+  "size": 5,
+  "biomes": "#ninthplanet:has_structure",
+  "step": "surface_structures",
+  "spawn_overrides": {}
+}

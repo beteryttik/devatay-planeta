@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:story/root",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.root"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.root.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

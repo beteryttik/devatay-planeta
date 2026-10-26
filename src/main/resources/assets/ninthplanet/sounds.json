@@ -1,0 +1,902 @@
+{
+  "npc.engineer_male.greeting": {
+    "subtitle": "NPC speaks (greeting)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/greeting",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.alert": {
+    "subtitle": "NPC speaks (alert)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/alert",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.panic": {
+    "subtitle": "NPC speaks (panic)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/panic",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.give_panacea": {
+    "subtitle": "NPC speaks (give_panacea)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/give_panacea",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.defend": {
+    "subtitle": "NPC speaks (defend)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/defend",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.wave_over": {
+    "subtitle": "NPC speaks (wave_over)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/wave_over",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.idle_01": {
+    "subtitle": "NPC speaks (idle_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/idle_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.idle_02": {
+    "subtitle": "NPC speaks (idle_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/idle_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.idle_03": {
+    "subtitle": "NPC speaks (idle_03)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/idle_03",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.quest_01": {
+    "subtitle": "NPC speaks (quest_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/quest_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.quest_02": {
+    "subtitle": "NPC speaks (quest_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/quest_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.portal_ready": {
+    "subtitle": "NPC speaks (portal_ready)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/portal_ready",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.obey": {
+    "subtitle": "NPC speaks (obey)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/obey",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.refuse": {
+    "subtitle": "NPC speaks (refuse)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/refuse",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.thanks": {
+    "subtitle": "NPC speaks (thanks)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/thanks",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.low_hp": {
+    "subtitle": "NPC speaks (low_hp)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/low_hp",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.healed": {
+    "subtitle": "NPC speaks (healed)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/healed",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.patrol": {
+    "subtitle": "NPC speaks (patrol)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/patrol",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.night": {
+    "subtitle": "NPC speaks (night)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/night",
+        "stream": false
+      }
+    ]
+  },
+  "npc.engineer_male.storm": {
+    "subtitle": "NPC speaks (storm)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/engineer_male/storm",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.greeting": {
+    "subtitle": "NPC speaks (greeting)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/greeting",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.alert": {
+    "subtitle": "NPC speaks (alert)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/alert",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.panic": {
+    "subtitle": "NPC speaks (panic)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/panic",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.give_panacea": {
+    "subtitle": "NPC speaks (give_panacea)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/give_panacea",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.defend": {
+    "subtitle": "NPC speaks (defend)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/defend",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.wave_over": {
+    "subtitle": "NPC speaks (wave_over)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/wave_over",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.idle_01": {
+    "subtitle": "NPC speaks (idle_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/idle_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.idle_02": {
+    "subtitle": "NPC speaks (idle_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/idle_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.idle_03": {
+    "subtitle": "NPC speaks (idle_03)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/idle_03",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.quest_01": {
+    "subtitle": "NPC speaks (quest_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/quest_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.quest_02": {
+    "subtitle": "NPC speaks (quest_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/quest_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.portal_ready": {
+    "subtitle": "NPC speaks (portal_ready)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/portal_ready",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.obey": {
+    "subtitle": "NPC speaks (obey)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/obey",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.refuse": {
+    "subtitle": "NPC speaks (refuse)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/refuse",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.thanks": {
+    "subtitle": "NPC speaks (thanks)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/thanks",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.low_hp": {
+    "subtitle": "NPC speaks (low_hp)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/low_hp",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.healed": {
+    "subtitle": "NPC speaks (healed)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/healed",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.patrol": {
+    "subtitle": "NPC speaks (patrol)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/patrol",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.night": {
+    "subtitle": "NPC speaks (night)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/night",
+        "stream": false
+      }
+    ]
+  },
+  "npc.medic_female.storm": {
+    "subtitle": "NPC speaks (storm)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/medic_female/storm",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.greeting": {
+    "subtitle": "NPC speaks (greeting)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/greeting",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.alert": {
+    "subtitle": "NPC speaks (alert)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/alert",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.panic": {
+    "subtitle": "NPC speaks (panic)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/panic",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.give_panacea": {
+    "subtitle": "NPC speaks (give_panacea)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/give_panacea",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.defend": {
+    "subtitle": "NPC speaks (defend)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/defend",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.wave_over": {
+    "subtitle": "NPC speaks (wave_over)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/wave_over",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.idle_01": {
+    "subtitle": "NPC speaks (idle_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/idle_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.idle_02": {
+    "subtitle": "NPC speaks (idle_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/idle_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.idle_03": {
+    "subtitle": "NPC speaks (idle_03)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/idle_03",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.quest_01": {
+    "subtitle": "NPC speaks (quest_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/quest_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.quest_02": {
+    "subtitle": "NPC speaks (quest_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/quest_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.portal_ready": {
+    "subtitle": "NPC speaks (portal_ready)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/portal_ready",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.obey": {
+    "subtitle": "NPC speaks (obey)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/obey",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.refuse": {
+    "subtitle": "NPC speaks (refuse)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/refuse",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.thanks": {
+    "subtitle": "NPC speaks (thanks)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/thanks",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.low_hp": {
+    "subtitle": "NPC speaks (low_hp)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/low_hp",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.healed": {
+    "subtitle": "NPC speaks (healed)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/healed",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.patrol": {
+    "subtitle": "NPC speaks (patrol)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/patrol",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.night": {
+    "subtitle": "NPC speaks (night)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/night",
+        "stream": false
+      }
+    ]
+  },
+  "npc.guard_male.storm": {
+    "subtitle": "NPC speaks (storm)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/guard_male/storm",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.greeting": {
+    "subtitle": "NPC speaks (greeting)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/greeting",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.alert": {
+    "subtitle": "NPC speaks (alert)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/alert",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.panic": {
+    "subtitle": "NPC speaks (panic)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/panic",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.give_panacea": {
+    "subtitle": "NPC speaks (give_panacea)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/give_panacea",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.defend": {
+    "subtitle": "NPC speaks (defend)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/defend",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.wave_over": {
+    "subtitle": "NPC speaks (wave_over)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/wave_over",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.idle_01": {
+    "subtitle": "NPC speaks (idle_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/idle_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.idle_02": {
+    "subtitle": "NPC speaks (idle_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/idle_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.idle_03": {
+    "subtitle": "NPC speaks (idle_03)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/idle_03",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.quest_01": {
+    "subtitle": "NPC speaks (quest_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/quest_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.quest_02": {
+    "subtitle": "NPC speaks (quest_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/quest_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.portal_ready": {
+    "subtitle": "NPC speaks (portal_ready)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/portal_ready",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.obey": {
+    "subtitle": "NPC speaks (obey)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/obey",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.refuse": {
+    "subtitle": "NPC speaks (refuse)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/refuse",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.thanks": {
+    "subtitle": "NPC speaks (thanks)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/thanks",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.low_hp": {
+    "subtitle": "NPC speaks (low_hp)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/low_hp",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.healed": {
+    "subtitle": "NPC speaks (healed)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/healed",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.patrol": {
+    "subtitle": "NPC speaks (patrol)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/patrol",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.night": {
+    "subtitle": "NPC speaks (night)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/night",
+        "stream": false
+      }
+    ]
+  },
+  "npc.scientist_female.storm": {
+    "subtitle": "NPC speaks (storm)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/scientist_female/storm",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.greeting": {
+    "subtitle": "NPC speaks (greeting)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/greeting",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.alert": {
+    "subtitle": "NPC speaks (alert)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/alert",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.panic": {
+    "subtitle": "NPC speaks (panic)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/panic",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.give_panacea": {
+    "subtitle": "NPC speaks (give_panacea)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/give_panacea",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.defend": {
+    "subtitle": "NPC speaks (defend)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/defend",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.wave_over": {
+    "subtitle": "NPC speaks (wave_over)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/wave_over",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.idle_01": {
+    "subtitle": "NPC speaks (idle_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/idle_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.idle_02": {
+    "subtitle": "NPC speaks (idle_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/idle_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.idle_03": {
+    "subtitle": "NPC speaks (idle_03)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/idle_03",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.quest_01": {
+    "subtitle": "NPC speaks (quest_01)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/quest_01",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.quest_02": {
+    "subtitle": "NPC speaks (quest_02)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/quest_02",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.portal_ready": {
+    "subtitle": "NPC speaks (portal_ready)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/portal_ready",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.obey": {
+    "subtitle": "NPC speaks (obey)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/obey",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.refuse": {
+    "subtitle": "NPC speaks (refuse)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/refuse",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.thanks": {
+    "subtitle": "NPC speaks (thanks)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/thanks",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.low_hp": {
+    "subtitle": "NPC speaks (low_hp)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/low_hp",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.healed": {
+    "subtitle": "NPC speaks (healed)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/healed",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.patrol": {
+    "subtitle": "NPC speaks (patrol)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/patrol",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.night": {
+    "subtitle": "NPC speaks (night)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/night",
+        "stream": false
+      }
+    ]
+  },
+  "npc.commander_male.storm": {
+    "subtitle": "NPC speaks (storm)",
+    "sounds": [
+      {
+        "name": "ninthplanet:npc/commander_male/storm",
+        "stream": false
+      }
+    ]
+  }
+}

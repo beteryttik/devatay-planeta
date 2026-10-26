@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/obelisk_side",
+    "north": "ninthplanet:block/obelisk_side",
+    "south": "ninthplanet:block/obelisk_side",
+    "east": "ninthplanet:block/obelisk_side",
+    "west": "ninthplanet:block/obelisk_side",
+    "up": "ninthplanet:block/obelisk_top",
+    "down": "ninthplanet:block/obelisk_top"
+  }
+}

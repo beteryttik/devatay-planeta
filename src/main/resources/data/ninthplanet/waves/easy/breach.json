@@ -1,0 +1,13 @@
+{
+  "difficulty": "easy",
+  "type": "breach",
+  "count": 3,
+  "spawn_delay_seconds": 60,
+  "break_block_speed": 0.3,
+  "includes_alpha": false,
+  "targets": [
+    "weak_spots",
+    "doors",
+    "walls"
+  ]
+}

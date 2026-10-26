@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_1",
+  "giver": "engineer_male",
+  "phrase": "portal_ready",
+  "objective": "reach_obelisk",
+  "amount": 5,
+  "reward": "memory_crystal"
+}

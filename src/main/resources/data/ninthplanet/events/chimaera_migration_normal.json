@@ -1,0 +1,9 @@
+{
+  "event": "chimaera_migration",
+  "difficulty": "normal",
+  "duration_minutes": 5,
+  "effects": [
+    "taint_growth",
+    "hud_glitch"
+  ]
+}

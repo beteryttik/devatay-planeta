@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_3",
+  "giver": "scientist_female",
+  "phrase": "portal_ready",
+  "objective": "kill_chimaeras",
+  "amount": 2,
+  "reward": "coolant_cell"
+}

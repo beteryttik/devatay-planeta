@@ -1,0 +1,9 @@
+{
+  "event": "chimaera_migration",
+  "difficulty": "hard",
+  "duration_minutes": 6,
+  "effects": [
+    "guard_buff",
+    "panacea_bane"
+  ]
+}

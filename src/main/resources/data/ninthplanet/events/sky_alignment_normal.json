@@ -1,0 +1,9 @@
+{
+  "event": "sky_alignment",
+  "difficulty": "normal",
+  "duration_minutes": 3,
+  "effects": [
+    "extra_spawns",
+    "taint_growth"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:bunker_safe",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.two_moons"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.two_moons.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

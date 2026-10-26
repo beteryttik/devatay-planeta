@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "ninthplanet",
+  "version": "${version}",
+  "name": "Ninth Planet: Memory Glitch",
+  "description": "Survive on the Ninth Planet: chimaeras, taint, panacea, memory echoes and portals home.",
+  "authors": [
+    "you"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ninthplanet.NinthPlanetMod"
+    ],
+    "client": [
+      "com.ninthplanet.client.NinthPlanetClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/portal_frame_side",
+    "north": "ninthplanet:block/portal_frame_side",
+    "south": "ninthplanet:block/portal_frame_side",
+    "east": "ninthplanet:block/portal_frame_side",
+    "west": "ninthplanet:block/portal_frame_side",
+    "up": "ninthplanet:block/portal_frame_top",
+    "down": "ninthplanet:block/portal_frame_top"
+  }
+}

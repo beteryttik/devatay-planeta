@@ -1,0 +1,7 @@
+{
+  "profile": "engineer_male",
+  "weapon": "ak47",
+  "armor": "medium",
+  "combat_role": "support",
+  "shoot_cooldown_ticks": 60
+}

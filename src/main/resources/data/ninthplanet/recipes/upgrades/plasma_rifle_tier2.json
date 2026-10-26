@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ninthplanet:fiber_cable"
+  },
+  "result": {
+    "id": "ninthplanet:plasma_rifle"
+  }
+}

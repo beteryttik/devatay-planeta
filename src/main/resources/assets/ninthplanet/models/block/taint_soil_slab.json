@@ -1,0 +1,6 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "all": "ninthplanet:block/taint_soil"
+  }
+}

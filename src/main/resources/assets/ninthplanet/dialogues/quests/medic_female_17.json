@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_17",
+  "giver": "medic_female",
+  "phrase": "healed",
+  "objective": "collect_panacea",
+  "amount": 4,
+  "reward": "coolant_cell"
+}

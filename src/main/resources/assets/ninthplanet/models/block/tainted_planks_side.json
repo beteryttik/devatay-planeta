@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/tainted_planks_side",
+    "north": "ninthplanet:block/tainted_planks_side",
+    "south": "ninthplanet:block/tainted_planks_side",
+    "east": "ninthplanet:block/tainted_planks_side",
+    "west": "ninthplanet:block/tainted_planks_side",
+    "up": "ninthplanet:block/tainted_planks_top",
+    "down": "ninthplanet:block/tainted_planks_top"
+  }
+}

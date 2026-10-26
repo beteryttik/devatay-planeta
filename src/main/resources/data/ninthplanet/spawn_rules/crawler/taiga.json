@@ -1,0 +1,8 @@
+{
+  "entity": "ninthplanet:crawler",
+  "biome": "taiga",
+  "weight": 9,
+  "min_group": 1,
+  "max_group": 4,
+  "requires_taint_level": 2
+}

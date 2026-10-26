@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_9",
+  "giver": "engineer_male",
+  "phrase": "night",
+  "objective": "reach_obelisk",
+  "amount": 7,
+  "reward": "memory_crystal"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_13",
+  "giver": "guard_male",
+  "phrase": "storm",
+  "objective": "clear_taint",
+  "amount": 4,
+  "reward": "coolant_cell"
+}

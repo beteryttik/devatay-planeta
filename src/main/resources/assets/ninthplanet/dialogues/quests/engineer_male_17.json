@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_17",
+  "giver": "engineer_male",
+  "phrase": "panic",
+  "objective": "kill_chimaeras",
+  "amount": 8,
+  "reward": "memory_crystal"
+}

@@ -1,0 +1,6 @@
+{
+  "taint_level": 2,
+  "spawn_weight_multiplier": 2.2,
+  "particle_density": 0.4,
+  "guard_bonus_percent": 16
+}

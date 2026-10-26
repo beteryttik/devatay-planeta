@@ -1,0 +1,87 @@
+{
+  "id": "scientist_female",
+  "gender": "female",
+  "voice_pack": "ninthplanet:npc/scientist_female",
+  "phrases": [
+    {
+      "id": "greeting",
+      "text_ru": "<greeting> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "alert",
+      "text_ru": "<alert> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "panic",
+      "text_ru": "<panic> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "give_panacea",
+      "text_ru": "<give_panacea> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "defend",
+      "text_ru": "<defend> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "wave_over",
+      "text_ru": "<wave_over> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "idle_01",
+      "text_ru": "<idle_01> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "idle_02",
+      "text_ru": "<idle_02> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "idle_03",
+      "text_ru": "<idle_03> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "quest_01",
+      "text_ru": "<quest_01> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "quest_02",
+      "text_ru": "<quest_02> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "portal_ready",
+      "text_ru": "<portal_ready> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "obey",
+      "text_ru": "<obey> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "refuse",
+      "text_ru": "<refuse> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "thanks",
+      "text_ru": "<thanks> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "low_hp",
+      "text_ru": "<low_hp> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "healed",
+      "text_ru": "<healed> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "patrol",
+      "text_ru": "<patrol> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "night",
+      "text_ru": "<night> TODO: реплика для scientist_female"
+    },
+    {
+      "id": "storm",
+      "text_ru": "<storm> TODO: реплика для scientist_female"
+    }
+  ]
+}

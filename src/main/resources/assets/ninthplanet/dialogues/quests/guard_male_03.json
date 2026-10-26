@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_3",
+  "giver": "guard_male",
+  "phrase": "thanks",
+  "objective": "collect_panacea",
+  "amount": 4,
+  "reward": "coolant_cell"
+}

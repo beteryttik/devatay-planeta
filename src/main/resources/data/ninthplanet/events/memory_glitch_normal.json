@@ -1,0 +1,9 @@
+{
+  "event": "memory_glitch",
+  "difficulty": "normal",
+  "duration_minutes": 6,
+  "effects": [
+    "guard_buff",
+    "extra_spawns"
+  ]
+}

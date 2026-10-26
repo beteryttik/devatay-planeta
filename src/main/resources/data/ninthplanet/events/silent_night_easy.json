@@ -1,0 +1,9 @@
+{
+  "event": "silent_night",
+  "difficulty": "easy",
+  "duration_minutes": 7,
+  "effects": [
+    "extra_spawns",
+    "hud_glitch"
+  ]
+}

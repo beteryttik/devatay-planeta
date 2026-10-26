@@ -1,0 +1,8 @@
+{
+  "id": "medic_female_quest_7",
+  "giver": "medic_female",
+  "phrase": "give_panacea",
+  "objective": "reach_obelisk",
+  "amount": 5,
+  "reward": "raw_panacea"
+}

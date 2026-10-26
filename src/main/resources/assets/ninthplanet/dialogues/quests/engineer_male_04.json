@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_4",
+  "giver": "engineer_male",
+  "phrase": "idle_02",
+  "objective": "kill_chimaeras",
+  "amount": 3,
+  "reward": "memory_crystal"
+}

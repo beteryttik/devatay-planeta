@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_10",
+  "giver": "engineer_male",
+  "phrase": "thanks",
+  "objective": "collect_panacea",
+  "amount": 3,
+  "reward": "memory_crystal"
+}

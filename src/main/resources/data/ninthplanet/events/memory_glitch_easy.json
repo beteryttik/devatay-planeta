@@ -1,0 +1,9 @@
+{
+  "event": "memory_glitch",
+  "difficulty": "easy",
+  "duration_minutes": 10,
+  "effects": [
+    "panacea_bane",
+    "guard_buff"
+  ]
+}

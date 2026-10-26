@@ -1,0 +1,9 @@
+{
+  "event": "sky_alignment",
+  "difficulty": "easy",
+  "duration_minutes": 3,
+  "effects": [
+    "panacea_bane",
+    "hud_glitch"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "hour": 14,
+  "moon1_angle": 255.0,
+  "moon2_angle": 420.0,
+  "sun1_angle": 345.0,
+  "sun2_angle": 525.0,
+  "ambient_light": 0.5
+}

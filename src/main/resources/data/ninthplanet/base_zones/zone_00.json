@@ -1,0 +1,7 @@
+{
+  "name": "base_zone_0",
+  "radius": 32,
+  "wall_hp": 400,
+  "includes_bunker": true,
+  "wave_bias": "hard"
+}

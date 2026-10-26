@@ -1,0 +1,9 @@
+{
+  "event": "taint_storm",
+  "difficulty": "nightmare",
+  "duration_minutes": 3,
+  "effects": [
+    "taint_growth",
+    "panacea_bane"
+  ]
+}

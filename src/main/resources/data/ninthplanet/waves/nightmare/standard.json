@@ -1,0 +1,13 @@
+{
+  "difficulty": "nightmare",
+  "type": "standard",
+  "count": 10,
+  "spawn_delay_seconds": 15,
+  "break_block_speed": 1.6,
+  "includes_alpha": false,
+  "targets": [
+    "weak_spots",
+    "doors",
+    "walls"
+  ]
+}

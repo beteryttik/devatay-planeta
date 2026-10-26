@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:alpha_slayer",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.bunker_safe"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.bunker_safe.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

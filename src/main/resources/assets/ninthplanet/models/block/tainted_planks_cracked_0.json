@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ninthplanet:block/tainted_planks_cracked_0"
+  }
+}

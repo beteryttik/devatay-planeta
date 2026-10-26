@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:craft_panacea",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.survive_wave"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.survive_wave.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

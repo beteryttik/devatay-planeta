@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_5",
+  "giver": "engineer_male",
+  "phrase": "give_panacea",
+  "objective": "reach_obelisk",
+  "amount": 5,
+  "reward": "steel_plate"
+}

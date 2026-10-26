@@ -1,0 +1,8 @@
+{
+  "id": "guard_male_quest_18",
+  "giver": "guard_male",
+  "phrase": "quest_02",
+  "objective": "kill_chimaeras",
+  "amount": 4,
+  "reward": "memory_crystal"
+}

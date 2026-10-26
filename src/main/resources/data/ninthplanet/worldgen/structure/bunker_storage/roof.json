@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "ninthplanet:bunker_storage_roof",
+  "size": 5,
+  "biomes": "#ninthplanet:has_structure",
+  "step": "surface_structures",
+  "spawn_overrides": {}
+}

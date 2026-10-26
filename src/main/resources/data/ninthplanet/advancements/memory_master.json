@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:escape_planet",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.memory_master"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.memory_master.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

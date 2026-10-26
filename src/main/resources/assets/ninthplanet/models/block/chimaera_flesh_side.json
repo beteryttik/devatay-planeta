@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/chimaera_flesh_side",
+    "north": "ninthplanet:block/chimaera_flesh_side",
+    "south": "ninthplanet:block/chimaera_flesh_side",
+    "east": "ninthplanet:block/chimaera_flesh_side",
+    "west": "ninthplanet:block/chimaera_flesh_side",
+    "up": "ninthplanet:block/chimaera_flesh_top",
+    "down": "ninthplanet:block/chimaera_flesh_top"
+  }
+}

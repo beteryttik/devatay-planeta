@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:memory_master",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.alpha_slayer"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.alpha_slayer.desc"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

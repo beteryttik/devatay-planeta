@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_1",
+  "giver": "scientist_female",
+  "phrase": "thanks",
+  "objective": "reach_obelisk",
+  "amount": 9,
+  "reward": "memory_crystal"
+}

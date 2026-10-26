@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_4",
+  "giver": "scientist_female",
+  "phrase": "low_hp",
+  "objective": "collect_panacea",
+  "amount": 3,
+  "reward": "coolant_cell"
+}

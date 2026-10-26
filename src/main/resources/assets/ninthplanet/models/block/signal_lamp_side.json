@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/signal_lamp_side",
+    "north": "ninthplanet:block/signal_lamp_side",
+    "south": "ninthplanet:block/signal_lamp_side",
+    "east": "ninthplanet:block/signal_lamp_side",
+    "west": "ninthplanet:block/signal_lamp_side",
+    "up": "ninthplanet:block/signal_lamp_top",
+    "down": "ninthplanet:block/signal_lamp_top"
+  }
+}

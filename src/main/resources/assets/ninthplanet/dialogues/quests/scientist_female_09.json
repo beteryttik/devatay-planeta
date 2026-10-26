@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_9",
+  "giver": "scientist_female",
+  "phrase": "obey",
+  "objective": "clear_taint",
+  "amount": 2,
+  "reward": "steel_plate"
+}

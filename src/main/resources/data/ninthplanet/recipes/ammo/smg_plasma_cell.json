@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IGI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "ninthplanet:steel_plate"
+    },
+    "G": {
+      "item": "ninthplanet:plasma_cell"
+    }
+  },
+  "result": {
+    "id": "ninthplanet:smg",
+    "count": 1
+  }
+}

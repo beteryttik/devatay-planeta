@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_16",
+  "giver": "scientist_female",
+  "phrase": "panic",
+  "objective": "collect_panacea",
+  "amount": 8,
+  "reward": "memory_crystal"
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "ninthplanet:survive_wave",
+  "display": {
+    "icon": {
+      "id": "ninthplanet:memory_crystal"
+    },
+    "title": {
+      "translate": "advancement.ninthplanet.open_portal"
+    },
+    "description": {
+      "translate": "advancement.ninthplanet.open_portal.desc"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

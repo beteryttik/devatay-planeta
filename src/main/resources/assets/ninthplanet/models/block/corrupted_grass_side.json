@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ninthplanet:block/corrupted_grass_side",
+    "north": "ninthplanet:block/corrupted_grass_side",
+    "south": "ninthplanet:block/corrupted_grass_side",
+    "east": "ninthplanet:block/corrupted_grass_side",
+    "west": "ninthplanet:block/corrupted_grass_side",
+    "up": "ninthplanet:block/corrupted_grass_top",
+    "down": "ninthplanet:block/corrupted_grass_top"
+  }
+}

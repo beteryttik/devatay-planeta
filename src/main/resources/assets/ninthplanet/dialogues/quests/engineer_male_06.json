@@ -1,0 +1,8 @@
+{
+  "id": "engineer_male_quest_6",
+  "giver": "engineer_male",
+  "phrase": "refuse",
+  "objective": "kill_chimaeras",
+  "amount": 8,
+  "reward": "coolant_cell"
+}

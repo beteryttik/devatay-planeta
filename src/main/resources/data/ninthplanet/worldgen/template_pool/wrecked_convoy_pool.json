@@ -1,0 +1,11 @@
+{
+  "fallback": "ninthplanet:wrecked_convoy_end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

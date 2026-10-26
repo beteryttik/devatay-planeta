@@ -1,0 +1,8 @@
+{
+  "id": "scientist_female_quest_14",
+  "giver": "scientist_female",
+  "phrase": "storm",
+  "objective": "clear_taint",
+  "amount": 7,
+  "reward": "memory_crystal"
+}

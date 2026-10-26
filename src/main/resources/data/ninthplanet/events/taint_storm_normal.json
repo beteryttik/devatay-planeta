@@ -1,0 +1,9 @@
+{
+  "event": "taint_storm",
+  "difficulty": "normal",
+  "duration_minutes": 4,
+  "effects": [
+    "hud_glitch",
+    "extra_spawns"
+  ]
+}

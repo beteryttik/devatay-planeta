@@ -1,10 +1,8 @@
-name: Build Ninth Planet Mod
+name: Сборка мода Ninth Planet
 
 on:
   push:
-    branches: [ main, dev ]
-  pull_request:
-    branches: [ main, dev ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -12,54 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Извлечь репозиторий
         uses: actions/checkout@v4
+
+      - name: Настройка JDK 21
+        uses: actions/setup-java@v4
         with:
-          lfs: true
+          distribution: temurin
+          java-version: 21
 
-      - name: Set up JDK 21
-        uses: actions/setup-java@v5
+      - name: Настройка Gradle
+        uses: gradle/actions/setup-gradle@v3
         with:
-          distribution: 'temurin'
-          java-version: '21'
+          gradle-version: 8.8
 
-      - name: Set up Gradle
-        uses: gradle/actions/setup-gradle@v4
-
-      - name: Build with Gradle
+      - name: Сборка с помощью Gradle
         run: gradle build --no-daemon
 
-      - name: Upload build artifacts
+      - name: Загрузить артефакты сборки
         uses: actions/upload-artifact@v4
         with:
           name: ninthplanet-mod-build
           path: build/libs/*.jar
-          retention-days: 14
-
-  release:
-    if: startsWith(github.ref, 'refs/tags/v')
-    needs: build
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up JDK 21
-        uses: actions/setup-java@v5
-        with:
-          distribution: 'temurin'
-          java-version: '21'
-
-      - name: Set up Gradle
-        uses: gradle/actions/setup-gradle@v4
-
-      - name: Build
-        run: gradle build --no-daemon
-
-      - name: Create GitHub Release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: build/libs/*.jar
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

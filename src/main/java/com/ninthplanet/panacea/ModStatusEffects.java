@@ -1,4 +1,5 @@
 package com.ninthplanet.panacea;
+import net.minecraft.entity.LivingEntity;
 
 import com.ninthplanet.NinthPlanetMod;
 import net.minecraft.entity.effect.StatusEffect;

@@ -1,4 +1,5 @@
 package com.ninthplanet.panacea;
+import net.minecraft.entity.LivingEntity;
 
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.player.PlayerEntity;
